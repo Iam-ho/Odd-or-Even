@@ -1,4 +1,4 @@
-print("Even Numbers from 1 to 100")
+print("Even Numbers from 0 to 100")
 previous_num = -1
 
 for i in range(1,52):
